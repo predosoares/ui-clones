@@ -2,7 +2,7 @@
 <img src="./data/Header@3x.png" />
 
 # **Objetivo**
-O próposito desse repositório é armazenar todos os meus estudos de design de interface do usuário (UI), sempre mantendo-o atualizado. Dentro da pasta de cada projeto terá uma descrição mais detalhada da implementação realizada em cada clone de interface.
+O próposito desse repositório é armazenar todos os meus estudos de design de interface do usuário (UI), sempre mantendo-o atualizado. Dentro da pasta de cada projeto há uma descrição mais detalhada da implementação realizada em cada clone de interface.
 
 # **Interfaces Reproduzidas**
 ### Clique para mais detalhes
@@ -26,3 +26,5 @@ O próposito desse repositório é armazenar todos os meus estudos de design de 
 # Conhecimentos
 
 Domínio sobre a construção de layouts com Flexbox e Grid.
+
+<img src="./data/Footer.png" />
