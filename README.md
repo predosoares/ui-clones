@@ -1,30 +1,45 @@
 
 <img src="./data/Header@3x.png" />
 
-# **Objetivo**
+# Objetivo
 O próposito desse repositório é armazenar todos os meus estudos de design de interface do usuário (UI), sempre mantendo-o atualizado. Dentro da pasta de cada projeto há uma descrição mais detalhada da implementação realizada em cada clone de interface.
 
-# **Interfaces Reproduzidas**
+# Interfaces Reproduzidas
 ### Clique para mais detalhes
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/linkedin"> <img src="./data/LinkedIn@3x.png"  alt="Interface do Linkedin"></a>
+      <a href="https://github.com/Preddo/ui-clones/tree/master/linkedin"> <img src="./data/LinkedIn Thumb@2x.png"  alt="Interface do Linkedin"></a>
     </td>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/dropbox"><img src="./data/Dropbox@3x.png"  alt="Interface do Dropbox"></a>
+      <a href="https://github.com/Preddo/ui-clones/tree/master/dropbox"><img src="./data/Dropbox Thumb@2x.png"  alt="Interface do Dropbox"></a>
     </td>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/twitter"> <img src="./data/Twitter@3x.png"  alt="Interface do Twitter"></a>
+      <a href="https://github.com/Preddo/ui-clones/tree/master/twitter"> <img src="./data/Twitter Thumb@2x.png"  alt="Interface do Twitter"></a>
     </td>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/discord"><img src="./data/Discord@3x.png"  alt="Interface do Discord"></a>
+      <a href="https://github.com/Preddo/ui-clones/tree/master/discord"><img src="./data/Discord Thumb@2x.png"  alt="Interface do Discord"></a>
     </td>
   </tr> 
 </table>
 
-# Conhecimentos
+## Conhecimentos
 
-Domínio sobre a construção de layouts com Flexbox e Grid.
+Domínio sobre a construção de aplicações web (sites SPA) com conhecimentos de layout Flexbox e Grid; estilização com CSS; elaboração de animações com CSS e React Spring; construção de formulários e validação de campos; manipulação do localStorage para, entre outras coisas, controlar a sessão de um usuário; implementação de Shimmer Effect para carregamento de páginas;
 
-<img src="./data/Footer.png" />
+## Tecnologias conhecidas
+
+* HTML5
+* CSS3
+* ReactJS
+* React Native
+* Storybook
+* NextJS
+
+## Plataformas de hospedagem
+
+* Netlify
+* Vercel
+* Heroku
+
+<img src="./data/Footer@2x.png" />
