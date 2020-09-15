@@ -9,7 +9,7 @@ O próposito desse repositório é armazenar todos os meus estudos de design de 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/linkedin"> <img src="./data/LinkedIn Thumb@2x.png"  alt="Interface do Linkedin"></a>
+      <a href="https://github.com/Preddo/ui-clones/tree/master/linkedin"> <img src="./data/Linkedin Thumb@2x.png"  alt="Interface do Linkedin"></a>
     </td>
     <td>
       <a href="https://github.com/Preddo/ui-clones/tree/master/dropbox"><img src="./data/Dropbox Thumb@2x.png"  alt="Interface do Dropbox"></a>
