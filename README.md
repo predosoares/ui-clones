@@ -5,20 +5,34 @@
 O próposito desse repositório é armazenar todos os meus estudos de design de interface do usuário (UI), sempre mantendo-o atualizado. Dentro da pasta de cada projeto há uma descrição mais detalhada da implementação realizada em cada clone de interface.
 
 # Interfaces Reproduzidas
-### Clique para mais detalhes
+### Clique para explorar em mais detalhes
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/linkedin"> <img src="./data/Linkedin Thumb@2x.png"  alt="Interface do Linkedin"></a>
+      <a href="https://linkedin-ui-clone-v1.netlify.app/"> <img src="./data/Linkedin Thumb@2x.png"  alt="Interface do Linkedin"></a>
     </td>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/dropbox"><img src="./data/Dropbox Thumb@2x.png"  alt="Interface do Dropbox"></a>
+      <a href="https://dropbox-ui-clone-v1.netlify.app/"><img src="./data/Dropbox Thumb@2x.png"  alt="Interface do Dropbox"></a>
     </td>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/twitter"> <img src="./data/Twitter Thumb@2x.png"  alt="Interface do Twitter"></a>
+      <a href="https://twitter-ui-clone-v1.netlify.app/"> <img src="./data/Twitter Thumb@2x.png"  alt="Interface do Twitter"></a>
     </td>
     <td>
-      <a href="https://github.com/Preddo/ui-clones/tree/master/discord"><img src="./data/Discord Thumb@2x.png"  alt="Interface do Discord"></a>
+      <a href="https://discord-ui-clone-v1.netlify.app/"><img src="./data/Discord Thumb@2x.png"  alt="Interface do Discord"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://typeform-ui-clone-v1.netlify.app/"> <img src="./data/TypeformCard.png"  alt="Interface do Typeform"></a>
+    </td>
+    <td>
+      <a href="https://github-ui-clone-v1.netlify.app/"><img src="./data/GithubCard.png"  alt="Interface do GitHub"></a>
+    </td>
+    <td>
+      <a href="https://tesla-ui-clone-v1.netlify.app/"> <img src="./data/TeslaCard.png"  alt="Interface da Tesla"></a>
+    </td>
+    <td>
+      <a href="https://mercadolivre-ui-clone-v1.netlify.app/"><img src="./data/MercadoLivreCard.png"  alt="Interface do Mercado Livre"></a>
     </td>
   </tr> 
 </table>
@@ -31,7 +45,9 @@ Domínio sobre a construção de aplicações web (sites SPA) com conhecimentos 
 
 * HTML5
 * CSS3
+* Javascript
 * ReactJS
+* Framer Motion
 * React Native
 * Storybook
 * NextJS
